@@ -4,6 +4,11 @@ A configurable simulation environment for modeling LoRa RSSI behavior, path-loss
 This simulator is designed to support research on LoRa-based localization, signal propagation, and machine learning–driven performance prediction.
 
 ---
+<p align="center">
+  <a href="https://youtu.be/1tVO52E98Ys">
+    <img src="https://img.youtube.com/vi/1tVO52E98Ys/maxresdefault.jpg" alt="LoRa Path-Loss Simulator v0.1 Demo" width="75%">
+  </a>
+</p>
 
 ## 🔍 Overview
 
